@@ -1,5 +1,7 @@
 # Built application files
 *.apk
+/.idea
+/gradle
 *.ap_
 
 # Files for the Dalvik VM
