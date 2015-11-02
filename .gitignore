@@ -1,6 +1,7 @@
 # Built application files
 *.apk
 /.idea
+**/*.iml
 /gradle
 *.ap_
 
